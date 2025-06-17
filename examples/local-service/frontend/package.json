@@ -12,10 +12,10 @@
   "author": "garden.io <info@garden.io>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.21.2"
   },
   "devDependencies": {
-    "mocha": "^10.8.2",
+    "mocha": "^11.6.0",
     "nodemon": "^2.0.22",
     "supertest": "^6.3.3"
   }
