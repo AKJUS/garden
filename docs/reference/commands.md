@@ -4877,15 +4877,23 @@ variables:
 
     isSecret:
 
+    supersededBy:
+
+    variableListId:
+
     variableListName:
 
-    environmentScope:
+    scopedToEnvironment:
 
-    userScope:
+    scopedToUser:
 
     expiresAt:
 
     description:
+
+    scopedAccountId:
+
+    scopedEnvironmentId:
 ```
 
 ### garden link source
