@@ -29,7 +29,7 @@
     "@garden-io/garden-terraform": "*",
     "@scg82/exit-hook": "^3.4.1",
     "chalk": "^5.6.2",
-    "tar": "^7.5.9",
+    "tar": "^7.5.11",
     "undici": "^7.22.0",
     "unzipper": "^0.12.3"
   },
